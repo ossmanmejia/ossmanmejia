@@ -1,7 +1,7 @@
 Hi 👋 My name is Ossman Mejia
 =============================
 
-Frontend Developer
+Developer
 ------------------
 
 * 🌍  I'm based in Medellín, CO
